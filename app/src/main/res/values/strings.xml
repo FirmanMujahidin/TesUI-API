@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_amenitis_pop_up">AmenitisPopUpActivity</string>
+    <string name="are_you_sure">Are you sure want to \n request this items?</string>
+    <string name="dismis">Your request has been sent. \n Please wait your request to \n be delivered</string>
+    <string name="produck1">Sabun - 2 pcs</string>
+    <string name="produck2">Sikat Gigi - 2 pcs</string>
+</resources>
